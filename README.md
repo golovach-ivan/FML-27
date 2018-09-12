@@ -1,5 +1,9 @@
 ## Topics
 
+- "Why functional programming matters"
+- "Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs"
+
+
 ### Object-Oriented Programming
 - What is OOP?
 - What is Object-based?
