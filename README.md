@@ -2,6 +2,7 @@
   - DDD
   - GoF
   - SICP
+  - Мифический человеко-месяц
   
 ## Papers
 - "Why functional programming matters"
@@ -16,6 +17,8 @@
 - https://github.com/darkleaf/must_read
 - Dependency injection / IoC
 - SOLID
+- XP, Agile, Canban, Scrum, Waterfall
+- Серебрянная пуля
 
 ### Object-Oriented Programming
 - What is OOP?
