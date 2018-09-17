@@ -1,8 +1,16 @@
-## Topics
-
+## Books
+  - DDD
+  - GoF
+  - SICP
+  
+## Papers
 - "Why functional programming matters"
 - "Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs"
 
+## Models
+- Turing Machine (BF lang)
+- Lambda-calculi
+- Process calculi (CCS + Pi-Calculi)
 
 ### Object-Oriented Programming
 - What is OOP?
