@@ -12,6 +12,11 @@
 - Lambda-calculi
 - Process calculi (CCS + Pi-Calculi)
 
+- Duck typing
+- https://github.com/darkleaf/must_read
+- Dependency injection / IoC
+- SOLID
+
 ### Object-Oriented Programming
 - What is OOP?
 - What is Object-based?
